@@ -53,7 +53,9 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>06/08/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Panorama de arquiteturas, tecnologias e aplicações web atuais.</li>
+<li>Formulário: <a href="https://forms.gle/3ii6FRaLHyTuS78e7">https://forms.gle/3ii6FRaLHyTuS78e7</a></li>
+<li>Desafio do dia: <a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">https://andreainfufsm.github.io/web-challenge-of-the-day/</a></li>
+<li>Panorama de arquiteturas, tecnologias e aplicações web atuais: estudo de casos.</li>
 </ul></td>
 </tr>
 
