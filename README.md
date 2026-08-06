@@ -55,7 +55,15 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 <li>Formulário: <a href="https://forms.gle/3ii6FRaLHyTuS78e7">https://forms.gle/3ii6FRaLHyTuS78e7</a></li>
 <li>Desafio do dia: <a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">https://andreainfufsm.github.io/web-challenge-of-the-day/</a></li>
-<li>Panorama de arquiteturas, tecnologias e aplicações web atuais: estudo de casos.</li>
+<li>Panorama de arquiteturas, tecnologias e aplicações web atuais: estudo de casos:</li>
+<ol>
+<li>https://portal.ufsm.br/projetos/</li>
+<li>https://gifcap.dev/</li>
+<li>https://jbsm.inf.ufsm.br/360/</li>
+<li>https://excalidraw.com</li>
+<li>https://www.photopea.com/</li>
+<li>https://ancestors.familysearch.org/pt/2CYS-Y6D/friedrich-michaelsen-1829-1902</li>
+</ol>
 </ul></td>
 </tr>
 
