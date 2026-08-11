@@ -83,7 +83,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <li>https://github.com/elc1090/demo-nutrition-facts-scanner</li>
 <li>https://github.com/elc1090/demo-image-annotator</li>
 <li>https://github.com/elc1090/demo-attendance-indexeddb</li>
-<li></li>
+<li>https://github.com/AndreaInfUFSM/client-side-ai-demos</li>
 <li></li>
 <li></li>
 <li></li>
