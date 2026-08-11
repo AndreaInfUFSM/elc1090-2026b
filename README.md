@@ -125,7 +125,7 @@ Projeto: desenvolvimento e deploy de aplicação client-side.</li>
 <td>25/08/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Projeto: desenvolvimento e deploy de aplicação client-side.</li>
+<li>Apresentação do primeiro projeto.</li>
 </ul></td>
 </tr>
 
