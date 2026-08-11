@@ -74,8 +74,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>11/08/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</li>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/project/03/README.md">Projeto: remake de aplicação web simples</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/basics/README.md">Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/project/README.md">Projeto: remake de aplicação web simples</a></li>
 <li><a href="https://forms.gle/X6G7aUf43JSVywvm9">Formulário de clientes e demandas</a></li>
 <li>Web apps para remake:</li>
 <ol>
