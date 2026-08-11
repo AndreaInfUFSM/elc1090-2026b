@@ -75,6 +75,19 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</li>
+<li>Web apps para remake:</li>
+<ol>
+<li>https://github.com/elc1090/demo-challenge-of-the-day</li>
+<li>https://github.com/elc1090/demo-nutrition-facts-scanner</li>
+<li>https://github.com/elc1090/demo-image-annotator</li>
+<li>https://github.com/elc1090/demo-attendance-indexeddb</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+
 </ul></td>
 </tr>
 
