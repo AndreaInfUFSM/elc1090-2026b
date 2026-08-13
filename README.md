@@ -100,8 +100,9 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>
 <ul>
 <li><a href="https://docs.google.com/spreadsheets/d/1N4u5PD2OlM4Bflf0MfJ1Y6SLX5ls9Pjgp0fsNl23hTE/edit?usp=sharing">Distribuição de demandas: match de devs e clientes</a></li>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/basics/README.md">Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</a></li>
 <li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/project/README.md">Projeto: remake de aplicação web simples</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/basics/README.md">Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</a></li>
+
 
 </ul>
 </td>
