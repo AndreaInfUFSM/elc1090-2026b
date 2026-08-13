@@ -84,10 +84,10 @@ Apresentação da disciplina e do plano de ensino.</li>
 <li>https://github.com/elc1090/demo-image-annotator</li>
 <li>https://github.com/elc1090/demo-attendance-indexeddb</li>
 <li>https://github.com/AndreaInfUFSM/client-side-ai-demos</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>https://github.com/RonCanCode/Client-Side_Web_Programming/tree/master/Assignment-2</li>
+<li>https://github.com/thebarunkumar/my-notes-app</li>
+<li>https://github.com/jimmyurl/drawing-board</li>
+<li>https://github.com/mmj030703/Movie-Search-App/</li>
 </ol>
 
 </ul></td>
@@ -97,11 +97,14 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td align="right">4</td>
 <td>13/08/2026</td>
 <td>Qui</td>
-<td><ul>
-<li>Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</li>
-<li>
-Projeto: desenvolvimento e deploy de aplicação client-side.</li>
-</ul></td>
+<td>
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1N4u5PD2OlM4Bflf0MfJ1Y6SLX5ls9Pjgp0fsNl23hTE/edit?usp=sharing">Distribuição de demandas: match de devs e clientes</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/basics/README.md">Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/project/README.md">Projeto: remake de aplicação web simples</a></li>
+
+</ul>
+</td>
 </tr>
 
 <tr>
