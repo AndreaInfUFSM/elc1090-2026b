@@ -105,7 +105,7 @@ Muitas opções de hospedagem gratuita:
 
 - Faça commits frequentes, seguindo boas práticas
 
-- Preencha o README que já virá junto com o repositório
+- Preencha seu README.md a partir do template fornecido: [README.template.md](assets/README.template.md)
 
 - Prepare-se para uma apresentação do projeto com duração de 3 a 5 minutos, com ênfase no processo de desenvolvimento.
 

@@ -114,7 +114,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>18/08/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Projeto: desenvolvimento e deploy de aplicação client-side.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/project/README.md">Projeto: remake de aplicação web simples</a></li>
 </ul></td>
 </tr>
 
@@ -123,7 +123,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>20/08/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Projeto: desenvolvimento e deploy de aplicação client-side.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/project/README.md">Projeto: remake de aplicação web simples</a></li> (publicado o formato do README.md de entrega)
 </ul></td>
 </tr>
 
