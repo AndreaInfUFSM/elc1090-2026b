@@ -42,9 +42,9 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 **(i) Desafio do Dia**
 
-- Arthur Moro Fróes: https://github.com/elc1090/project1-2026b-arthurmfroes
 - Lucas Medeiros Figueiredo dos Santos: https://github.com/elc1090/project1-2026b-lucas-mfs
 - Lucas Xavier Pairé: https://github.com/elc1090/project1-2026b-lucasxpaire
+- Arthur Moro Fróes: https://github.com/elc1090/project1-2026b-arthurmfroes
 - Miguel Brondani: https://github.com/elc1090/project1-2026b-mBrond
 
 **(ii) Leitor de Tabela Nutricional**
@@ -68,9 +68,9 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 **(v) Client-side object detection**
 
+- Guilherme de Cezaro Martini: https://github.com/elc1090/project1-2026b-guigalmesh
 - Carlos Eduardo Velozo Correa: https://github.com/elc1090/project1-2026b-Carlos-Velozo
 - Fabrício Thomas Freitas Santos: https://github.com/elc1090/project1-2026b-FabricioDD
-- Guilherme de Cezaro Martini: https://github.com/elc1090/project1-2026b-guigalmesh
 
 
 **(vii) My Notes App**
