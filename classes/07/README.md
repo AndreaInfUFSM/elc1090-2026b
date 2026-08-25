@@ -38,13 +38,13 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 - Organização no GitHub: https://github.com/orgs/elc1090
 - Todos os repositórios deste projeto: https://github.com/orgs/elc1090/repositories?q=project1-2026b
-
+- Planilha com devs, clientes e demandas: https://docs.google.com/spreadsheets/d/1N4u5PD2OlM4Bflf0MfJ1Y6SLX5ls9Pjgp0fsNl23hTE/edit?usp=sharing
 
 (i) Desafio do Dia
 
 - Arthur Moro Fróes: https://github.com/elc1090/project1-2026b-arthurmfroes
 - Lucas Medeiros Figueiredo dos Santos: https://github.com/elc1090/project1-2026b-lucas-mfs
-- Lucas Xavier Pairé: - https://github.com/elc1090/project1-2026b-lucasxpaire
+- Lucas Xavier Pairé: https://github.com/elc1090/project1-2026b-lucasxpaire
 - Miguel Brondani: https://github.com/elc1090/project1-2026b-mBrond
 
 (ii) Leitor de Tabela Nutricional
@@ -90,5 +90,4 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 - Gabriel Maroneze Ramos: https://github.com/elc1090/project1-2026b-gabriel-maroneze
 
-- https://github.com/elc1090/project1-2026b-Antoniosrt
 
