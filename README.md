@@ -142,7 +142,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>27/08/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Apresentação do primeiro projeto.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/07/README.md">Apresentação do primeiro projeto.</a></li>
+<li>Desafio do dia: <a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">https://andreainfufsm.github.io/web-challenge-of-the-day/</a></li>
 </ul></td>
 </tr>
 

@@ -42,52 +42,51 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 **(i) Desafio do Dia**
 
-- Lucas Medeiros Figueiredo dos Santos: https://github.com/elc1090/project1-2026b-lucas-mfs
-- Lucas Xavier Pairé: https://github.com/elc1090/project1-2026b-lucasxpaire
-- Arthur Moro Fróes: https://github.com/elc1090/project1-2026b-arthurmfroes
-- Miguel Brondani: https://github.com/elc1090/project1-2026b-mBrond
+- ✅ Lucas Medeiros Figueiredo dos Santos: https://github.com/elc1090/project1-2026b-lucas-mfs
+- ✅ Lucas Xavier Pairé: https://github.com/elc1090/project1-2026b-lucasxpaire
+- ✅ Arthur Moro Fróes: https://github.com/elc1090/project1-2026b-arthurmfroes
+- ✅ Miguel Brondani: https://github.com/elc1090/project1-2026b-mBrond
 
 **(ii) Leitor de Tabela Nutricional**
 
-- Gabriel da Silva França: https://github.com/elc1090/project1-2026b-GabrielSFranca
-- Henrique Alexandre Marques da Costa: 
+- ▶️ Gabriel da Silva França: https://github.com/elc1090/project1-2026b-GabrielSFranca
 
 **(iii) Image Annotator**
 
-- Lauren Auth Lugoch: https://github.com/elc1090/project1-2026b-laulugoch
-- Victor Mateus Severo Ferreira: https://github.com/elc1090/project1-2026b-victormsferreira
+- ✅ Lauren Auth Lugoch: https://github.com/elc1090/project1-2026b-laulugoch
+- ✅ Victor Mateus Severo Ferreira: https://github.com/elc1090/project1-2026b-victormsferreira
 
 
 **(iv) Chamada Local**
 
-- Giovana Borelli: https://github.com/elc1090/project1-2026b-GiBorelli
-- João Daniel Wurdig Lucas: https://github.com/elc1090/project1-2026b-oropoc
-- Ricardo Facco Pigatto: https://github.com/elc1090/project1-2026b-RPFacco
-- Rafael Penteado Klaue: https://github.com/elc1090/project1-2026b-rpklaue
+- ✅ Giovana Borelli: https://github.com/elc1090/project1-2026b-GiBorelli
+- ✅ João Daniel Wurdig Lucas: https://github.com/elc1090/project1-2026b-oropoc
+- ✅ Ricardo Facco Pigatto: https://github.com/elc1090/project1-2026b-RPFacco
+- ▶️ Rafael Penteado Klaue: https://github.com/elc1090/project1-2026b-rpklaue
 
 
 **(v) Client-side object detection**
 
-- Guilherme de Cezaro Martini: https://github.com/elc1090/project1-2026b-guigalmesh
-- Carlos Eduardo Velozo Correa: https://github.com/elc1090/project1-2026b-Carlos-Velozo
-- Fabrício Thomas Freitas Santos: https://github.com/elc1090/project1-2026b-FabricioDD
+- ▶️ Guilherme de Cezaro Martini: https://github.com/elc1090/project1-2026b-guigalmesh
+- ✅ Carlos Eduardo Velozo Correa: https://github.com/elc1090/project1-2026b-Carlos-Velozo
+- ✅ Fabrício Thomas Freitas Santos: https://github.com/elc1090/project1-2026b-FabricioDD
 
 
 **(vii) My Notes App**
 
-- Guilherme Serafini Dapieve: https://github.com/elc1090/project1-2026b-guisdapi
-- Renata de Souza da Fonseca: https://github.com/elc1090/project1-2026b-renatasfon
-- Carlos Henrique Mendina Gonçalves Pereira: https://github.com/elc1090/project1-2026b-cau19
-- Francisco das Chagas Sousa Júnior: https://github.com/elc1090/project1-2026b-FranciscoCSJunior
+- ✅ Guilherme Serafini Dapieve: https://github.com/elc1090/project1-2026b-guisdapi
+- ✅ Renata de Souza da Fonseca: https://github.com/elc1090/project1-2026b-renatasfon
+- ✅ Carlos Henrique Mendina Gonçalves Pereira: https://github.com/elc1090/project1-2026b-cau19
+- ▶️ Francisco das Chagas Sousa Júnior: https://github.com/elc1090/project1-2026b-FranciscoCSJunior
 
 **(viii) Drawing Board**
 
-- Alexandre Chagas Brites: https://github.com/elc1090/project1-2026b-Alexandre-ChagasBrites
-- Miguel Miron Silva: https://github.com/elc1090/project1-2026b-MiguelMironSilva
+- ▶️ Alexandre Chagas Brites: https://github.com/elc1090/project1-2026b-Alexandre-ChagasBrites
+- ▶️ Miguel Miron Silva: https://github.com/elc1090/project1-2026b-MiguelMironSilva
 
 
 **(ix) Movie Search App**
 
-- Gabriel Maroneze Ramos: https://github.com/elc1090/project1-2026b-gabriel-maroneze
+- ▶️ Gabriel Maroneze Ramos: https://github.com/elc1090/project1-2026b-gabriel-maroneze
 
 
