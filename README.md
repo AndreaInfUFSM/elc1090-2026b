@@ -152,9 +152,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>01/09/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Rumo ao segundo projeto: aplicações web dinâmicas.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
@@ -163,9 +162,8 @@ Rumo ao segundo projeto: aplicações web dinâmicas.</li>
 <td>03/09/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: aplicação web com consumo de API.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
@@ -174,9 +172,8 @@ Projeto: aplicação web com consumo de API.</li>
 <td>08/09/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: aplicação web com consumo de API.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
@@ -185,9 +182,8 @@ Projeto: aplicação web com consumo de API.</li>
 <td>10/09/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: aplicação web com consumo de API.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
@@ -196,9 +192,8 @@ Projeto: aplicação web com consumo de API.</li>
 <td>15/09/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: aplicação web com consumo de API.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
@@ -216,7 +211,7 @@ Projeto: aplicação web com consumo de API.</li>
 <td>22/09/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Discussão sobre o segundo projeto e definições sobre o terceiro projeto.</li>
+<li>Apresentação do segundo projeto.</li>
 </ul></td>
 </tr>
 
@@ -226,8 +221,7 @@ Projeto: aplicação web com consumo de API.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
 </ul></td>
 </tr>
 
