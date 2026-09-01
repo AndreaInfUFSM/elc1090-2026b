@@ -122,7 +122,7 @@ Algumas possibilidades:
 - **Bancos não relacionais:** [MongoDB](https://www.mongodb.com/)
 - **ORM / acesso a dados:** [Hibernate](https://hibernate.org/), [SQLAlchemy](https://www.sqlalchemy.org/), [Prisma](https://www.prisma.io/)
 - **Backend como serviço:** [Supabase](https://supabase.com/), [Firebase](https://firebase.google.com/)
-- **Hospedagem / deploy:** [Render](https://render.com/), [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/) ou outros serviços com planos gratuitos adequados ao projeto
+- **Hospedagem / deploy:** [Render](https://render.com/), [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), [Railway](https://railway.com/) ou outros serviços com planos gratuitos adequados ao projeto
 
 Outras tecnologias podem ser utilizadas, desde que atendam aos requisitos e seja possível explicar as principais decisões de arquitetura, persistência e comunicação entre frontend e backend.
 
