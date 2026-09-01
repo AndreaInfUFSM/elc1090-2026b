@@ -102,9 +102,10 @@ O desenvolvimento deve ser incremental, com commits frequentes e avanços demons
 
 Este documento compartilhado e aberto para edição vai manter um registro de propostas e cooperações:
 
-https://docs.google.com/document/d/1srXCOaUUL2BfgefpBaPXY7gXsBRUR-6brNACCyvfELA/edit?usp=sharing
+https://docs.google.com/document/d/1yensUIRce8eLGguXqsL_m7PCYF62Z6rl_jE8VyKpvUw/edit?usp=sharing
 
-Após o prazo final para propostas (08/09), o documento será fechado para edição. 
+
+⚠️ **ATENÇÃO!** Após o prazo final para propostas (08/09), o documento será fechado para edição. 
 
 
 ## Tecnologias possíveis
