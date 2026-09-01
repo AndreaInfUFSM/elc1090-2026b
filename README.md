@@ -153,7 +153,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/09/project/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/09/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados</a></li>
 <li></li>
 </ul></td>
 </tr>
