@@ -99,7 +99,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td>
 <ul>
-<li>Desafio do dia: <a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">https://andreainfufsm.github.io/web-challenge-of-the-day/</a></li>
+<li><a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">Desafio do dia</a></li>
 <li><a href="https://docs.google.com/spreadsheets/d/1N4u5PD2OlM4Bflf0MfJ1Y6SLX5ls9Pjgp0fsNl23hTE/edit?usp=sharing">Distribuição de demandas: match de devs e clientes</a></li>
 <li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/project/README.md">Projeto: remake de aplicação web simples</a></li>
 <li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/basics/README.md">Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</a></li>
@@ -123,7 +123,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>20/08/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Desafio do dia: <a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">https://andreainfufsm.github.io/web-challenge-of-the-day/</a></li>
+<li><a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">Desafio do dia</a></li>
 <li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/03/project/README.md">Projeto: remake de aplicação web simples</a></li> (publicado o formato do README.md de entrega)
 </ul></td>
 </tr>
@@ -143,7 +143,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/07/README.md">Apresentação do primeiro projeto.</a></li>
-<li>Desafio do dia: <a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">https://andreainfufsm.github.io/web-challenge-of-the-day/</a></li>
+<li><a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">Desafio do dia</a></li>
 </ul></td>
 </tr>
 
@@ -164,7 +164,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li><a href="https://andreainfufsm.github.io/web-challenge-of-the-day/">Desafio do dia</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/09/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados</a></li>
 </ul></td>
 </tr>
 
