@@ -176,7 +176,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
 <li>Estudo de caso: <a href="https://github.com/AndreaInfUFSM/sdd-hands-on">https://github.com/AndreaInfUFSM/sdd-hands-on</a> (examples/04-openspec-evolve)</li>
-<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/09/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor</a></li>
 </ul></td>
 </tr>
 
@@ -186,7 +186,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/09/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor</a></li>
 </ul></td>
 </tr>
 
@@ -196,7 +196,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/09/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor</a></li>(publicado o formato do README.md de entrega)
 </ul></td>
 </tr>
 
