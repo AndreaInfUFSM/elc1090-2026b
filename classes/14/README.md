@@ -42,18 +42,18 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 **Mapas, localização e serviços urbanos**
 
-- **Gabriel Maroneze Ramos**: https://github.com/elc1090/project2-2026b-gabriel-maroneze | Parceria: João Daniel Würdig Lucas
+- Gabriel Maroneze Ramos: https://github.com/elc1090/project2-2026b-gabriel-maroneze | Parceria: João Daniel Würdig Lucas
 
-- **João Daniel Würdig Lucas**: https://github.com/elc1090/project2-2026b-oropoc Parceria: Gabriel Maroneze Ramos
+- João Daniel Würdig Lucas: https://github.com/elc1090/project2-2026b-oropoc Parceria: Gabriel Maroneze Ramos
 
 
-- **Francisco das Chagas Sousa Júnior**: https://github.com/elc1090/project2-2026b-FranciscoCSJunior | Parceria: Lucas Medeiros Figueiredo dos Santos
+- Francisco das Chagas Sousa Júnior: https://github.com/elc1090/project2-2026b-FranciscoCSJunior | Parceria: Lucas Medeiros Figueiredo dos Santos
 
-- **Lucas Medeiros Figueiredo dos Santos**: https://github.com/elc1090/project2-2026b-lucas-mfs | Parceria: Francisco das Chagas Sousa Júnior
+- Lucas Medeiros Figueiredo dos Santos: https://github.com/elc1090/project2-2026b-lucas-mfs | Parceria: Francisco das Chagas Sousa Júnior
 
-- **Fabrício Thomas Freitas Santos**: https://github.com/elc1090/project2-2026b-FabricioDD | Parceria: Arthur Moro Fróes
+- Fabrício Thomas Freitas Santos: https://github.com/elc1090/project2-2026b-FabricioDD | Parceria: Arthur Moro Fróes
 
-- **Carlos Eduardo Velozo Correa**: https://github.com/elc1090/project2-2026b-Carlos-Velozo | Parceria: Miguel Brondani
+- Carlos Eduardo Velozo Correa: https://github.com/elc1090/project2-2026b-Carlos-Velozo | Parceria: Miguel Brondani
 
 
 
@@ -63,39 +63,39 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 **Filmes, séries e gerenciamento pessoal**
 
 
-- **Gabriel da Silva França**: https://github.com/elc1090/project2-2026b-GabrielSFranca | Parceria: Miguel Miron Silva
+- Gabriel da Silva França: https://github.com/elc1090/project2-2026b-GabrielSFranca | Parceria: Miguel Miron Silva
 
-- **Miguel Miron Silva**: https://github.com/elc1090/project2-2026b-MiguelMironSilva | Parceria: Gabriel da Silva França
+- Miguel Miron Silva: https://github.com/elc1090/project2-2026b-MiguelMironSilva | Parceria: Gabriel da Silva França
 
 **Educação e desafios**
 
-- **Giovana Borelli**: https://github.com/elc1090/project2-2026b-GiBorelli | Parceria: Lucas Xavier Pairé
+- Giovana Borelli: https://github.com/elc1090/project2-2026b-GiBorelli | Parceria: Lucas Xavier Pairé
 
-- **Lucas Xavier Pairé**: https://github.com/elc1090/project2-2026b-lucasxpaire | Parceria: Giovana Borelli
+- Lucas Xavier Pairé: https://github.com/elc1090/project2-2026b-lucasxpaire | Parceria: Giovana Borelli
 
-- **Guilherme Serafini Dapieve**: https://github.com/elc1090/project2-2026b-guisdapi | Parceria: Guilherme de Cezaro Martini
+- Guilherme Serafini Dapieve: https://github.com/elc1090/project2-2026b-guisdapi | Parceria: Guilherme de Cezaro Martini
 
 
 **Jogos**
 
-- **Ricardo Facco Pigatto**: https://github.com/elc1090/project2-2026b-RPFacco | Parceria: Victor Mateus Severo Ferreira
+- Ricardo Facco Pigatto: https://github.com/elc1090/project2-2026b-RPFacco | Parceria: Victor Mateus Severo Ferreira
 
-- **Victor Mateus Severo Ferreira**: https://github.com/elc1090/project2-2026b-victormsferreira | Parceria: Ricardo Facco Pigatto
+- Victor Mateus Severo Ferreira: https://github.com/elc1090/project2-2026b-victormsferreira | Parceria: Ricardo Facco Pigatto
 
 
 **Aplicações de impacto social**
 
 
-- **Lauren Auth Lugoch**: https://github.com/elc1090/project2-2026b-laulugoch | Parceria: Renata de Souza da Fonseca
+- Lauren Auth Lugoch: https://github.com/elc1090/project2-2026b-laulugoch | Parceria: Renata de Souza da Fonseca
 
-- **Renata de Souza da Fonseca**: https://github.com/elc1090/project2-2026b-renatasfon | Parceria: Lauren Auth Lugoch
+- Renata de Souza da Fonseca: https://github.com/elc1090/project2-2026b-renatasfon | Parceria: Lauren Auth Lugoch
 
-- **Miguel Brondani**: https://github.com/elc1090/project2-2026b-mBrond | Parceria: Carlos Eduardo Velozo
+- Miguel Brondani: https://github.com/elc1090/project2-2026b-mBrond | Parceria: Carlos Eduardo Velozo
 
 
 **Aplicações de gestão e infraestrutura**
 
 
-- **Arthur Moro Fróes**: https://github.com/elc1090/project2-2026b-arthurmfroes | Parceria: Fabrício Thomas Freitas Santos
+- Arthur Moro Fróes: https://github.com/elc1090/project2-2026b-arthurmfroes | Parceria: Fabrício Thomas Freitas Santos
 
-- **Guilherme de Cezaro Martini**: https://github.com/elc1090/project2-2026b-guigalmesh | Parceria: Guilherme Serafini Dapieve
+- Guilherme de Cezaro Martini: https://github.com/elc1090/project2-2026b-guigalmesh | Parceria: Guilherme Serafini Dapieve
