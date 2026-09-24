@@ -224,7 +224,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li><a href="https://docs.google.com/document/d/11GBxUUckfvXKfLu8n7c3kTKJ3jDM82Hrml86kobBGUo/edit?usp=sharing">Atividade exploratória de repositórios do segundo projeto</a> (acesso com email cadastrado no portal estudantil)</li>
 </ul></td>
 </tr>
 
