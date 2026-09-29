@@ -31,6 +31,13 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 > Objetivo: desenvolver uma aplicação web com cadastro e autenticação de usuários, integrando frontend, backend e persistência de dados.
 
 
+![](assets/arquitetura-web-autenticacao.png)
+
+## Objetivos
+
+> Objetivo: desenvolver uma aplicação web com cadastro e autenticação de usuários, integrando frontend, backend e persistência de dados.
+
+
 O que você vai aprender/exercitar neste projeto?
 
 - Implementar cadastro e autenticação de usuários
@@ -110,10 +117,9 @@ O desenvolvimento deve ser incremental, com commits frequentes e avanços demons
 
 ## Quadro compartilhado de propostas
 
-Este documento compartilhado e aberto para edição vai manter um registro das propostas:
+Este documento compartilhado vai manter um registro das propostas e comentários de validação:
 
-
-
+https://docs.google.com/document/d/1LQYDlPk_te0ynqCd-rMtisN5H8bZm6R8xog-7kcRU6o/edit?usp=sharing
 
 ⚠️ **ATENÇÃO!** Após o prazo final para propostas (02/10), o documento será fechado para edição. 
 
@@ -149,7 +155,7 @@ Outras tecnologias podem ser utilizadas, desde que atendam aos requisitos.
 
 ## Entrega
 
-- Use o repositório de entrega que será criado automaticamente na organização: https://github.com/orgs/elc1090/repositories
+- Use o repositório de entrega que será criado automaticamente na organização: https://github.com/orgs/elc1090/repositories (criação será feita após definição de trabalho em dupla/individual)
 - Faça commits frequentes, seguindo boas práticas
 - Preencha seu README.md a partir do template que será fornecido posteriormente
 - O repositório deve conter todo o código necessário para execução do projeto

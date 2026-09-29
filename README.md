@@ -234,8 +234,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com cadastro e autenticação de usuários</a></li>
 </ul></td>
 </tr>
 
@@ -245,8 +244,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li>Desenvolvimento do terceiro projeto.</li>
 </ul></td>
 </tr>
 
@@ -256,8 +254,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>Ter</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li>Desenvolvimento do terceiro projeto.</li>
 </ul></td>
 </tr>
 
@@ -267,8 +264,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li>Desenvolvimento do terceiro projeto.</li>
 </ul></td>
 </tr>
 
@@ -277,7 +273,9 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>13/10/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Rodada de apresentações do terceiro projeto.</li>
+<li>Semana Acadêmica da Informática (SAINF)</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>Desenvolvimento do terceiro projeto.</li>
 </ul></td>
 </tr>
 
@@ -286,7 +284,9 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>15/10/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Aperfeiçoamento do terceiro projeto.</li>
+<li>Semana Acadêmica da Informática (SAINF)</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>Desenvolvimento do terceiro projeto.</li>
 </ul></td>
 </tr>
 
@@ -295,7 +295,8 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>20/10/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Aperfeiçoamento do terceiro projeto.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>Desenvolvimento do terceiro projeto.</li>
 </ul></td>
 </tr>
 
@@ -304,7 +305,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>22/10/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Discussão sobre os projetos anteriores e definições sobre o projeto final.</li>
+<li>Apresentações do terceiro projeto.</li>
 </ul></td>
 </tr>
 
@@ -313,7 +314,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>27/10/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Desenvolvimento do projeto final.</li>
+<li>Apresentações do terceiro projeto.</li>
 </ul></td>
 </tr>
 
