@@ -1,0 +1,8 @@
+{
+  "name": "backend-example-express-memory",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^5.1.0" }
+}

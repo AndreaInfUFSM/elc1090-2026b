@@ -1,0 +1,61 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run: 01 Express in-memory",
+      "type": "shell",
+      "command": "docker compose down && docker compose up --build express",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "Run: 02 FastAPI in-memory",
+      "type": "shell",
+      "command": "docker compose down && docker compose up --build fastapi",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "Run: 03 Spring in-memory",
+      "type": "shell",
+      "command": "docker compose down && docker compose up --build spring",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "Run: 04 Express Auth",
+      "type": "shell",
+      "command": "docker compose down && docker compose up --build express-auth",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "Run: 05 Supabase Auth",
+      "type": "shell",
+      "command": "docker compose down && docker compose up --build supabase-auth",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "Stop examples",
+      "type": "shell",
+      "command": "docker compose down",
+      "problemMatcher": []
+    }
+  ]
+}

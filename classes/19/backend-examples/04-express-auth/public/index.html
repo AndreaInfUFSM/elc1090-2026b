@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Express - autenticação e autorização</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main>
+    <p class="eyebrow">ELC1090 · Express Auth</p>
+    <h1>Quem é você? E o que pode fazer?</h1>
+    <p class="intro">
+      Este exemplo usa sessão no servidor e cookie HttpOnly no navegador.
+    </p>
+
+    <section id="login-panel">
+      <h2>Login</h2>
+      <form id="login-form">
+        <label>Email <input name="email" type="email" required value="ana@example.com"></label>
+        <label>Senha <input name="password" type="password" required value="ana12345"></label>
+        <button>Entrar</button>
+      </form>
+      <p class="hint">
+        Usuário: ana@example.com / ana12345<br>
+        Admin: admin@example.com / admin12345
+      </p>
+    </section>
+
+    <section id="app-panel" hidden>
+      <div class="section-heading">
+        <div>
+          <h2 id="identity">Usuário</h2>
+          <p id="role"></p>
+        </div>
+        <button id="logout" class="secondary">Sair</button>
+      </div>
+
+      <form id="task-form">
+        <label for="title">Nova tarefa</label>
+        <div class="row">
+          <input id="title" name="title" required>
+          <button>Adicionar</button>
+        </div>
+      </form>
+
+      <ul id="tasks"></ul>
+      <p id="status" aria-live="polite"></p>
+    </section>
+
+    <details>
+      <summary>O que observar</summary>
+      <pre>POST /api/login   → autenticação
+GET  /api/me      → identidade autenticada
+GET  /api/tasks   → exige login
+DELETE /api/tasks/:id → exige role=admin
+
+Navegador guarda: cookie de sessão
+Servidor guarda: estado da sessão</pre>
+    </details>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

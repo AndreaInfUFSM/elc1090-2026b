@@ -290,6 +290,15 @@ Mas não deveria precisar saber:
 
 ---
 
+
+### Exemplo: Swagger Petstore
+
+- OpenAPI é um formato padrão de descrição para APIs de aplicações web
+  - usado para definir endpoints, parâmetros e respostas de forma que humanos e máquinas possam ler facilmente
+- Swagger é uma ferramenta que ajuda a projetar, construir, documentar e testar APIs
+  - Usa OpenAPI como formato de descrição
+- Live playground: https://petstore3.swagger.io/
+
 ### HTTP: o envelope da conversa
 
 Uma requisição possui informações como:
@@ -337,6 +346,8 @@ No DevTools → **Network** podemos observar:
 ---
 
 ### Códigos de status
+
+Ver: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
 
 Alguns códigos muito comuns:
 

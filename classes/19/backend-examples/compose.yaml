@@ -1,0 +1,30 @@
+services:
+  express:
+    build: ./01-express-in-memory
+    ports:
+      - "8080:8080"
+
+  fastapi:
+    build: ./02-fastapi-in-memory
+    ports:
+      - "8080:8080"
+
+  spring:
+    build: ./03-spring-in-memory
+    ports:
+      - "8080:8080"
+
+  express-auth:
+    build: ./04-express-auth
+    environment:
+      SESSION_SECRET: "classroom-demo-secret"
+    ports:
+      - "8080:8080"
+
+  supabase-auth:
+    build: ./05-supabase-auth
+    env_file:
+      - path: ./.env
+        required: false
+    ports:
+      - "8080:80"

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Supabase Auth + RLS</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main>
+    <p class="eyebrow">ELC1090 · Supabase</p>
+    <h1>Backend como serviço</h1>
+    <p class="intro">
+      Aqui o navegador conversa diretamente com Supabase Auth e com a API de dados.
+      A autorização das linhas acontece por políticas RLS no PostgreSQL.
+    </p>
+
+    <section id="config-warning" hidden>
+      <strong>Configuração ausente.</strong>
+      <p>Copie <code>.env.example</code> para <code>.env</code> e informe URL e chave publicável do projeto Supabase.</p>
+    </section>
+
+    <section id="login-panel">
+      <h2>Login</h2>
+      <form id="login-form">
+        <label>Email <input name="email" type="email" required></label>
+        <label>Senha <input name="password" type="password" required></label>
+        <button>Entrar com Supabase Auth</button>
+      </form>
+      <p class="hint">Crie os usuários de teste no painel Auth do seu projeto Supabase.</p>
+    </section>
+
+    <section id="app-panel" hidden>
+      <div class="section-heading">
+        <div>
+          <h2 id="identity">Usuário</h2>
+          <p>As consultas retornam apenas as tarefas deste usuário por causa da RLS.</p>
+        </div>
+        <button id="logout" class="secondary">Sair</button>
+      </div>
+
+      <form id="task-form">
+        <label for="title">Nova tarefa</label>
+        <div class="row">
+          <input id="title" name="title" required>
+          <button>Adicionar</button>
+        </div>
+      </form>
+
+      <ul id="tasks"></ul>
+      <p id="status" aria-live="polite"></p>
+    </section>
+
+    <details>
+      <summary>O que observar</summary>
+      <pre>Frontend → Supabase Auth
+Frontend → Data API → PostgreSQL
+                    ↳ RLS verifica auth.uid()
+
+Não existe um Express/FastAPI/Spring escrito por nós neste exemplo.</pre>
+    </details>
+  </main>
+
+  <script src="/config.js"></script>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
