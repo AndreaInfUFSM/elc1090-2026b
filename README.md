@@ -244,7 +244,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>Desenvolvimento do terceiro projeto.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com cadastro e autenticação de usuários</a></li>
 </ul></td>
 </tr>
 
@@ -254,7 +254,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>Desenvolvimento do terceiro projeto.</li>
+<li>Fundamentos: <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/19/README.md">Cliente, servidor, identidade, autenticação e autorização</a></li>
 </ul></td>
 </tr>
 
