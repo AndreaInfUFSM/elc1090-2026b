@@ -15,6 +15,8 @@ comment:  Material de apoio para a disciplina
 
 translation: English  translations/English.md
 
+link:     https://cdn.jsdelivr.net/gh/AndreaInfUFSM/elc1090-2026b@main/assets/css/custom.css
+
 import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
 -->
 
