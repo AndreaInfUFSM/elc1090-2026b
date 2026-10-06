@@ -47,7 +47,7 @@ Agora vamos olhar mais de perto para **o que acontece entre uma ação no navega
 
 E então acrescentar uma pergunta nova:
 
-> **Quem está fazendo esta requisição?**
+> Quem está fazendo esta requisição?
 
 ---
 
@@ -300,6 +300,26 @@ Mas não deveria precisar saber:
 - Swagger é uma ferramenta que ajuda a projetar, construir, documentar e testar APIs
   - Usa OpenAPI como formato de descrição
 - Live playground: https://petstore3.swagger.io/
+
+
+### Projeto de APIs
+
+
+- Recursos: Quais são as principais entidades que a API expõe (produtos, locais, tarefas, usuários, etc)?
+
+- Operações: O que o cliente pode fazer com cada recurso?
+
+- Semântica HTTP: Qual método HTTP expressa melhor a operação: `GET`, `POST` (`PUT`, `PATCH`) ou `DELETE`?
+
+- Representações: Quais dados entram na requisição e quais dados retornam na resposta?
+
+- Identidade e relacionamentos: Como os recursos são identificados e como suas relações aparecem na API?
+
+- Validação e erros: O que acontece quando os dados enviados são inválidos, o recurso não existe, ou algo inesperado acontece no servidor?
+
+- Autenticação e autorização: Quem está fazendo a requisição e essa pessoa pode realizar a operação?
+
+- Contrato e evolução: Como os clientes dependem desta API? O que acontece se ela mudar?
 
 ### HTTP: o envelope da conversa
 
