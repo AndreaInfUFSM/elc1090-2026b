@@ -264,7 +264,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>Desenvolvimento do terceiro projeto.</li>
+<li>Prática no GitHub Codespaces: https://github.com/elc1090/demo-backend-auth</li>
 </ul></td>
 </tr>
 
