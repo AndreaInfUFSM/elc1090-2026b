@@ -157,7 +157,7 @@ Outras tecnologias podem ser utilizadas, desde que atendam aos requisitos.
 
 - Use o repositório de entrega que será criado automaticamente na organização: https://github.com/orgs/elc1090/repositories (criação será feita após definição de trabalho em dupla/individual)
 - Faça commits frequentes, seguindo boas práticas
-- Preencha seu README.md a partir do template que será fornecido posteriormente
+- Preencha seu README.md a partir do template fornecido: [README.template.md](assets/README.template.md)
 - O repositório deve conter todo o código necessário para execução do projeto
 - Prepare-se para uma apresentação do projeto com duração de 3 a 5 minutos, com ênfase no processo de desenvolvimento, nas decisões tomadas e na cooperação realizada
 
