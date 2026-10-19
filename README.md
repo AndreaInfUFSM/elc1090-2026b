@@ -305,7 +305,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>22/10/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Apresentações do terceiro projeto.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/24/README.md">Apresentações do terceiro projeto.</a></li>
 </ul></td>
 </tr>
 
@@ -314,7 +314,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>27/10/2026</td>
 <td>Ter</td>
 <td><ul>
-<li>Apresentações do terceiro projeto.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/24/README.md">Apresentações do terceiro projeto.</a></li>
 </ul></td>
 </tr>
 
