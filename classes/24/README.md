@@ -47,17 +47,17 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 **Apresentações dia 22/10 (quinta-feira)**
 
-- ▶️ Gabriel Maroneze Ramos e Joao Daniel Wurdig Lucas: https://github.com/elc1090/project3-2026b-gabriel-maroneze-oropoc
+- ✅ Gabriel Maroneze Ramos e Joao Daniel Wurdig Lucas: https://github.com/elc1090/project3-2026b-gabriel-maroneze-oropoc
 
-- ▶️ Guilherme de Cezaro Martini e Guilherme Serafini Dapieve: https://github.com/elc1090/project3-2026b-guigalmesh-guisdapi
+- ✅ Guilherme de Cezaro Martini e Guilherme Serafini Dapieve: https://github.com/elc1090/project3-2026b-guigalmesh-guisdapi
 
-- ▶️ Lauren Auth Lugoch e Renata de Souza da Fonseca: https://github.com/elc1090/project3-2026b-laulugoch-renatasfon
+- ✅ Lauren Auth Lugoch e Renata de Souza da Fonseca: https://github.com/elc1090/project3-2026b-laulugoch-renatasfon
 
-- ▶️ Francisco das Chagas Sousa Júnior e Lucas Medeiros Figueiredo dos Santos: https://github.com/elc1090/project3-2026b-FranciscoCSJunior-lucas-mfs
+- ✅ Francisco das Chagas Sousa Júnior e Lucas Medeiros Figueiredo dos Santos: https://github.com/elc1090/project3-2026b-FranciscoCSJunior-lucas-mfs
 
-- ▶️ Rafael Penteado Klaue: https://github.com/elc1090/project3-2026b-rpklaue
+- ✅ Rafael Penteado Klaue: https://github.com/elc1090/project3-2026b-rpklaue
 
-- ▶️ Carlos Henrique Mendina Gonçalves Pereira: https://github.com/elc1090/project3-2026b-cau19
+- ✅ Carlos Henrique Mendina Gonçalves Pereira: https://github.com/elc1090/project3-2026b-cau19
 
 - ▶️ Fabrício Thomas Freitas Santos: https://github.com/elc1090/project3-2026b-FabricioDD
 
