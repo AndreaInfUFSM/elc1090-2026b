@@ -97,10 +97,6 @@ Algumas possibilidades:
 Outras tecnologias podem ser utilizadas, desde que atendam aos requisitos.
 
 
-### Observações
-
-- A aplicação deve continuar funcionando após a entrega, para que possa ser testada e inspecionada durante a disciplina
-
 
 
 ## Entrega
@@ -116,8 +112,10 @@ Outras tecnologias podem ser utilizadas, desde que atendam aos requisitos.
 - Entrega até **23/11 (segunda-feira)**, apresentações dias **24 e 26/11 (terça e quinta-feira)**.
 
 Obs.:
+- A aplicação deve continuar funcionando após a entrega, para que possa ser testada e inspecionada durante a disciplina
 - Será publicada uma escala de apresentações, que deverá ser respeitada.
 - Trabalhos não apresentados ficarão sujeitos a penalidade na nota, podendo inclusive ter a nota zerada.
+
 
 
 
