@@ -323,7 +323,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>29/10/2026</td>
 <td>Qui</td>
 <td><ul>
-<li>Desenvolvimento do projeto final.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/26/README.md">Definições para o projeto final.</a></li>
 </ul></td>
 </tr>
 
