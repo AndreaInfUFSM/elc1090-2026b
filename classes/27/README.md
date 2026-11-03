@@ -29,7 +29,7 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 > Onde cada parte executa? Quem se comunica com quem? O que acontece depois de uma ação do usuário?
 
 Casos:
-- Site estático, WordPress, reserva de equipamentos e loja virtual.
+- Site estático, WordPress, reserva de salas e loja virtual.
 - Analisar casos ajuda a reconhecer estruturas recorrentes e aplicá-las a outros contextos.
 
 ## Duas visões complementares
@@ -327,7 +327,7 @@ sequenceDiagram
     A->>D: Consulta salas e reservas
     D-->>A: Disponibilidade
     A-->>F: JSON com opções disponíveis
-    F->>F: Usuário escolhe equipamento e horário
+    F->>F: Usuário escolhe sala e horário
     F->>A: POST /api/reservas com a escolha
     A->>A: Verifica identidade, permissão e dados
     A->>D: Confirma disponibilidade e grava em transação
