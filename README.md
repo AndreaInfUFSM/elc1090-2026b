@@ -332,6 +332,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>03/11/2026</td>
 <td>Ter</td>
 <td><ul>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2026b/master/classes/27/README.md">Estudo de casos.</a></li>
 <li>Desenvolvimento do projeto final.</li>
 </ul></td>
 </tr>
