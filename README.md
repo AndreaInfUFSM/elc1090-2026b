@@ -359,24 +359,21 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td align="right">-</td>
 <td>12/11/2026</td>
 <td>Qui</td>
-<td><ul>-
-</ul></td>
+<td><ul>-</ul></td>
 </tr>
 
 <tr>
 <td align="right">-</td>
 <td>17/11/2026</td>
 <td>Ter</td>
-<td><ul>-
-</ul></td>
+<td><ul>-</ul></td>
 </tr>
 
 <tr>
 <td align="right">-</td>
 <td>19/11/2026</td>
 <td>Qui</td>
-<td><ul>-
-</ul></td>
+<td><ul>-</ul></td>
 </tr>
 
 <tr>
