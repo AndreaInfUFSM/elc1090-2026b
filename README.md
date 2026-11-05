@@ -342,6 +342,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>05/11/2026</td>
 <td>Qui</td>
 <td><ul>
+<li>Prática no GitHub Codespaces: https://github.com/elc1090/demo-auth-profile</li>
 <li>Desenvolvimento do projeto final.</li>
 </ul></td>
 </tr>
