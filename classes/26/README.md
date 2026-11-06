@@ -101,10 +101,12 @@ Outras tecnologias podem ser utilizadas, desde que atendam aos requisitos.
 
 ## Entrega
 
-- Utilizar o repositório de entrega da organização: [elc1090](https://github.com/orgs/elc1090/repositories) (criação do repositório será feita pela professora após definição de trabalho em dupla/individual)
-- Preencher o README.md a partir do [template](assets/README.template.md), destacando o avanço em relação aos projetos anteriores
-- Disponibilizar o código e instruções para execução/testes.
-- Apresentar o projeto em cerca de **5 minutos**, com ênfase no processo, nas decisões e no aprendizado.
+- Utilizar um repositório de entrega na organização [elc1090](https://github.com/orgs/elc1090/repositories), criado pela professora, **ou reaproveitar o repositório do terceiro projeto**, caso seja uma continuação.
+- No caso de reaproveitamento do repositório, renomear o `README.md` anterior para `README-projeto3.md`, preservando a documentação do projeto anterior.
+- Criar um novo `README.md` a partir do [template](assets/README.template.md), destacando os avanços em relação aos projetos anteriores.
+- Disponibilizar o código e as instruções para execução/testes.
+- Apresentar o projeto em cerca de **5 minutos**, com ênfase nos avanços, no processo de desenvolvimento, nas decisões e no aprendizado.
+
 
 **Prazos**:
 
