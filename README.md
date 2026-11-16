@@ -366,8 +366,10 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td align="right">-</td>
 <td>17/11/2026</td>
 <td>Ter</td>
+<td><ul>
 <li>Quizzes: https://astroarq.online/</li>
 <li>Avalie a plataforma de quizzes: https://forms.gle/duokfBbNtZASU12G6</li>
+</ul></td>
 </tr>
 
 <tr>
