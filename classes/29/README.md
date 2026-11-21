@@ -32,19 +32,19 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 > **Objetivo:** demonstrar avanço em conhecimentos e práticas de desenvolvimento web em relação aos projetos anteriores.
 
 
-# Projetos
+# Propostas e repositórios
 
+- Documento compartilhado com propostas: https://docs.google.com/document/d/19NqZBPJfvTZVw6NtvZXMz6HvJtxwl0Ewf3CPGafoxQc/edit?usp=sharing
 - Organização no GitHub: https://github.com/orgs/elc1090
 - Todos os repositórios deste projeto: https://github.com/orgs/elc1090/repositories?q=project4-2026b (novos) ou https://github.com/orgs/elc1090/repositories?q=project3-2026b (continuações)
-- Documento compartilhado com propostas: https://docs.google.com/document/d/19NqZBPJfvTZVw6NtvZXMz6HvJtxwl0Ewf3CPGafoxQc/edit?usp=sharing
+
+
+<br>
+<br>
+
+# Apresentações dia 24/11 (terça-feira)
 
 > As datas de apresentação são fixas e não poderão ser alteradas. Portanto, todos devem se organizar para apresentar seus projetos na data prevista.
-
-<br>
-<br>
-
-
-**Apresentações dia 24/11 (terça-feira)**
 
 
 - ▶️ Alexandre Chagas Brites: https://github.com/elc1090/project3-2026b-Alexandre-ChagasBrites
@@ -53,13 +53,13 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 - ▶️ Ricardo Facco Pigatto: https://github.com/elc1090/project3-2026b-RPFacco
 
-- ▶️ Victor Mateus Severo Ferreira: https://github.com/elc1090/project3-2026b-victormsferreira
+- ▶️ Victor Mateus Severo Ferreira: https://github.com/elc1090/project4-2026b-victormsferreira
 
 - ▶️ Carlos Eduardo Velozo Correa: https://github.com/elc1090/project4-2026b-Carlos-Velozo
 
 - ▶️ Miguel Brondani: https://github.com/elc1090/project3-2026b-Carlos-Velozo-mBrond
 
-- ▶️ Giovana Borelli: https://github.com/elc1090/project3-2026b-GiBorelli-lucasxpaire
+- ▶️ Giovana Borelli: https://github.com/elc1090/project4-2026b-GiBorelli
 
 - ▶️ Lucas Xavier Paire: https://github.com/elc1090/project4-2026b-lucasxpaire
 
@@ -69,10 +69,12 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 <br>
 <br>
 
-**Apresentações dia 26/11 (quinta-feira)**
+# Apresentações dia 26/11 (quinta-feira)
 
 
-- ▶️ Miguel Miron Silva: https://github.com/elc1090/project3-2026b-GabrielSFranca-MiguelMironSilva
+> As datas de apresentação são fixas e não poderão ser alteradas. Portanto, todos devem se organizar para apresentar seus projetos na data prevista.
+
+- ▶️ Miguel Miron Silva: https://github.com/elc1090/project4-2026b-MiguelMironSilva
 
 - ▶️ Gabriel da Silva França: https://github.com/elc1090/project4-2026b-GabrielSFranca
 
