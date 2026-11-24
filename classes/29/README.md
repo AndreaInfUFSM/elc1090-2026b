@@ -37,7 +37,7 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 - Documento compartilhado com propostas: https://docs.google.com/document/d/19NqZBPJfvTZVw6NtvZXMz6HvJtxwl0Ewf3CPGafoxQc/edit?usp=sharing
 - Organização no GitHub: https://github.com/orgs/elc1090
 - Todos os repositórios deste projeto: https://github.com/orgs/elc1090/repositories?q=project4-2026b (novos) ou https://github.com/orgs/elc1090/repositories?q=project3-2026b (continuações)
-
+- Análise de commits: https://elc1090.github.io/project-insights/2026b/project4-commit-activity-3d-anonymous.html
 
 <br>
 <br>
