@@ -53,21 +53,21 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 - ▶️ Alexandre Chagas Brites: https://github.com/elc1090/project3-2026b-Alexandre-ChagasBrites
 
-- ▶️ Arthur Moro Fróes: https://github.com/elc1090/project4-2026b-arthurmfroes
+- ✅ Arthur Moro Fróes: https://github.com/elc1090/project4-2026b-arthurmfroes
 
-- ▶️ Ricardo Facco Pigatto: https://github.com/elc1090/project3-2026b-RPFacco
+- ✅ Ricardo Facco Pigatto: https://github.com/elc1090/project3-2026b-RPFacco
 
 - ▶️ Victor Mateus Severo Ferreira: https://github.com/elc1090/project4-2026b-victormsferreira
 
-- ▶️ Carlos Eduardo Velozo Correa: https://github.com/elc1090/project4-2026b-Carlos-Velozo
+- ✅ Carlos Eduardo Velozo Correa: https://github.com/elc1090/project4-2026b-Carlos-Velozo
 
-- ▶️ Miguel Brondani: https://github.com/elc1090/project3-2026b-Carlos-Velozo-mBrond
+- ✅ Miguel Brondani: https://github.com/elc1090/project3-2026b-Carlos-Velozo-mBrond
 
-- ▶️ Giovana Borelli: https://github.com/elc1090/project4-2026b-GiBorelli
+- ✅ Giovana Borelli: https://github.com/elc1090/project4-2026b-GiBorelli
 
-- ▶️ Lucas Xavier Paire: https://github.com/elc1090/project4-2026b-lucasxpaire
+- ✅ Lucas Xavier Paire: https://github.com/elc1090/project4-2026b-lucasxpaire
 
-- ▶️ Fabrício Thomas Freitas Santos: https://github.com/elc1090/project4-2026b-FabricioDD
+- ✅ Fabrício Thomas Freitas Santos: https://github.com/elc1090/project4-2026b-FabricioDD
 
 
 <br>
